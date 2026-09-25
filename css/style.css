@@ -1,0 +1,48 @@
+/* General Page */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+
+/* Navigation */
+
+nav {
+    margin-bottom: 30px;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+
+/* Step 9 - Float */
+
+.profile-image {
+    float: left;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+
+/* Step 10 - Clear */
+
+.clear {
+    clear: both;
+}
+
+
+/* Step 11 - Image Gallery */
+
+.gallery img {
+    float: left;
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    margin: 10px;
+}
